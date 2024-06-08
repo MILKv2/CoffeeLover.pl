@@ -29,11 +29,6 @@ if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
                     <span class="material-symbols-outlined symbol-item">home</span>
                 </p>
             </a>
-            <a href="https://coffeelover.pl/links/discord/CVania.docx">
-                <p>
-                    <span class="material-symbols-outlined">download</span>
-                </p>
-            </a>
     </nav>
 </body>
 </html>
